@@ -1,0 +1,16 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/" },
+    { "src": "/dashboard", "dest": "/" },
+    { "src": "/login", "dest": "/" },
+    { "src": "/manage-account", "dest": "/" },
+    { "src": "/manage-area", "dest": "/" },
+    { "src": "/predictive-analytics", "dest": "/" },
+    { "src": "/manage-hospital", "dest": "/" },
+    { "src": "/patient-records", "dest": "/" },
+    { "src": "/manage-disease", "dest": "/" },
+    { "src": "/patient-records/:hospitalId", "dest": "/" },
+    { "src": "/404NotFound", "dest": "/" },
+    { "src": "/*", "dest": "/404NotFound" }
+  ]
+}
