@@ -11,7 +11,7 @@ To run the project locally, follow the steps below:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/syedamer1/FYP-WEBPORTAL/
+git clone https://github.com/Shahzaibk0000/Final-Year-Project
 ```
 ### Change to the project directory
 ```
